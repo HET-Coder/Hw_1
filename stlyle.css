@@ -1,0 +1,14 @@
+*{
+    background-color: aliceblue;
+    text-align: center;
+}
+#p_id1{
+    color: green;
+}
+#p_id2{
+    color: brown;
+}
+button{
+    color: chocolate;
+    width: 5;
+}
